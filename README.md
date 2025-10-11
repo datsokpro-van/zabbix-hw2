@@ -61,7 +61,7 @@
 
 ### Скриншот страницы хостов с привязками шаблонов и статусом подключения
 
-![Задание 2-3](screenshots/zabbix-hosts-templates.png)
+![Задание 2-3](screenshots/zadanie2-3.png)
 
 
 ---
@@ -83,4 +83,4 @@
 
 ### Скриншот дашборда
 
-![Задание 4](screenshots/custom-dashboard.png)
+![Задание 4](screenshots/zadanie4.png)
