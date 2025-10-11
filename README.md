@@ -29,7 +29,7 @@
 - CPU Load (%) — собирает загрузку CPU в процентах (ключ `system.cpu.util[<cpu>,<type>,<mode>,<logical_or_physical>]`)
 - Memory Usage (%) — собирает загрузку RAM в процентах (ключ `vm.memory.size[<mode>]`)
 
-![Шаблон CPU и RAM](screenshots/template-cpu-ram.png)
+![Задание 1](screenshots/zadanie1.png)
 
 ---
 
